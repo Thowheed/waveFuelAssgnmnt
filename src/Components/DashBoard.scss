@@ -1,0 +1,18 @@
+.weather-container {
+    width: 100%;
+    height: 46px;
+    display: flex;
+    background: #097b5f;
+    padding: 0px 0px 0px 4%;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 600;
+
+    .ant-select {
+        font-size: 14px;
+        height: 32px;
+        margin-left: 60%;
+        width: 18%;
+    }
+
+}
